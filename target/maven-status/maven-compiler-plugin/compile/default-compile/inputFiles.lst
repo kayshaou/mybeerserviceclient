@@ -1,0 +1,7 @@
+/Users/kayshaou/Library/Mobile Documents/com~apple~CloudDocs/Documents/07_Code/01_Learn/06_Microservices/mybeerserviceclient/src/main/java/com/anocha/mybeerclient/web/model/BeerDto.java
+/Users/kayshaou/Library/Mobile Documents/com~apple~CloudDocs/Documents/07_Code/01_Learn/06_Microservices/mybeerserviceclient/src/main/java/com/anocha/mybeerclient/web/config/NIORestTemplateCustomizer.java
+/Users/kayshaou/Library/Mobile Documents/com~apple~CloudDocs/Documents/07_Code/01_Learn/06_Microservices/mybeerserviceclient/src/main/java/com/anocha/mybeerclient/web/model/BeerStyleEnum.java
+/Users/kayshaou/Library/Mobile Documents/com~apple~CloudDocs/Documents/07_Code/01_Learn/06_Microservices/mybeerserviceclient/src/main/java/com/anocha/mybeerclient/MybeerclientApplication.java
+/Users/kayshaou/Library/Mobile Documents/com~apple~CloudDocs/Documents/07_Code/01_Learn/06_Microservices/mybeerserviceclient/src/main/java/com/anocha/mybeerclient/web/model/BeerPagedList.java
+/Users/kayshaou/Library/Mobile Documents/com~apple~CloudDocs/Documents/07_Code/01_Learn/06_Microservices/mybeerserviceclient/src/main/java/com/anocha/mybeerclient/web/config/BlockingRestTemplateCustomizer.java
+/Users/kayshaou/Library/Mobile Documents/com~apple~CloudDocs/Documents/07_Code/01_Learn/06_Microservices/mybeerserviceclient/src/main/java/com/anocha/mybeerclient/web/client/BeerClient.java
